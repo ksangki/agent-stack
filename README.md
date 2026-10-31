@@ -12,6 +12,7 @@
 - **EPUB**: [v1.1.0 다운로드](epub/에이전트가-사는-곳-v1.1.0.epub) · 이전 판 [v1.0.0](epub/에이전트가-사는-곳-v1.0.0.epub)
 - **책 소개**: [BOOK.md](BOOK.md)
 - **발표 자료**: [1시간 발표용 슬라이드 58장](https://ksangki.github.io/agent-stack/presentation/)
+- **오프닝 영상**: [60초 모션그래픽](https://ksangki.github.io/agent-stack/media/opening.mp4) · 웹 버전 첫 화면에도 실려 있다
 
 ## 차례
 
